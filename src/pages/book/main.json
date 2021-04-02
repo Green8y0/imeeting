@@ -1,0 +1,17 @@
+{
+  "usingComponents": {
+      "van-collapse":"../../../static/vant-weapp/collapse/index",
+      "van-collapse-item":"../../../static/vant-weapp/collapse-item/index",
+      "van-popup": "../../../static/vant-weapp/popup/index",
+      "van-cell": "../../../static/vant-weapp/cell/index",
+      "van-radio": "../../../static/vant-weapp/radio/index",
+      "van-radio-group": "../../../static/vant-weapp/radio-group/index",
+      "van-calendar": "../../../static/vant-weapp/calendar/index",
+      "van-datetime-picker": "../../../static/vant-weapp/datetime-picker/index",
+      "van-field": "../../../static/vant-weapp/field/index",
+      "van-divider": "../../../static/vant-weapp/divider/index",
+      "van-button": "../../../static/vant-weapp/button/index",
+      "van-action-sheet": "../../../static/vant-weapp/action-sheet/index",
+      "van-icon": "../../../static/vant-weapp/icon/index"
+    }
+}

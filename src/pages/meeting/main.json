@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+      "van-divider": "../../../static/vant-weapp/divider/index",
+      "van-calendar": "../../../static/vant-weapp/calendar/index",
+      "van-action-sheet": "../../../static/vant-weapp/action-sheet/index"
+    }
+}

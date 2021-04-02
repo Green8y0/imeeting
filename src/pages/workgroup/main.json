@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+      "van-search":"../../../static/vant-weapp/search/index",
+      "van-popup": "../../../static/vant-weapp/popup/index",
+      "van-divider": "../../../static/vant-weapp/divider/index",
+      "van-field": "../../../static/vant-weapp/field/index",
+      "van-cell-group": "../../../static/vant-weapp/cell-group/index",
+      "van-button": "../../../static/vant-weapp/button/index"
+    }
+}
