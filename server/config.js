@@ -1,7 +1,7 @@
 const CONF = {
     serverHost: 'localhost',
     tunnelServerUrl: '',
-    tunnelSignatureKey: '27fb7d1c161b7ca52d73cce0f1d833f9f5b5ec89',
+    tunnelSignatureKey: '',
 
     //腾讯云相关配置可以查看云API密钥控制台：http://console.cloud.tencent.com/capi
     qcloudAppId:'',
